@@ -17,5 +17,6 @@ define bup::site(
     monthday => $cron_monthday,
     month    => $cron_month,
     command  => "tar -X /etc/bup-excludes -cPf - / | bup split -r ${backup_user}@${backup_server}: -n root -q",
+    require  => Package['bup'],
   }
 }
