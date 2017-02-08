@@ -11,4 +11,5 @@
 /var/agentx/*
 /run/*
 /root/backup-restore-*
+/root/.bup
 /etc/puppet/modules/*
