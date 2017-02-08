@@ -12,3 +12,4 @@
 /run/*
 /root/backup-restore-*
 /etc/puppet/modules/*
+/etc/puppet/hieradata/*
