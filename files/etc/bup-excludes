@@ -15,3 +15,4 @@
 /etc/puppet/hieradata/*
 /var/cache/*
 /var/lib/puppet/reports/*
+/opt/system-config/*
