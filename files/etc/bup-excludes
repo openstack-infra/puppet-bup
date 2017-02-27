@@ -13,4 +13,5 @@
 /root/backup-restore-*
 /etc/puppet/modules/*
 /etc/puppet/hieradata/*
+/var/cache/*
 /var/lib/puppet/reports/*
