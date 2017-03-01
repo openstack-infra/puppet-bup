@@ -14,3 +14,4 @@
 /root/.bup
 /etc/puppet/modules/*
 /etc/puppet/hieradata/*
+/var/lib/puppet/reports/*
