@@ -13,3 +13,4 @@
 /root/backup-restore-*
 /root/.bup
 /etc/puppet/modules/*
+/etc/puppet/hieradata/*
