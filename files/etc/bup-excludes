@@ -17,5 +17,6 @@
 /var/cache/*
 /var/lib/puppet/reports/*
 /var/lib/postgresql/*
+/var/lib/lxcfs/*
 /opt/system-config/*
 /afs/*
