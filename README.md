@@ -1,5 +1,3 @@
-# OpenStack bup Module
+# This repo has moved to OpenDev
 
-## Overview
-
-Configures bup.
+It can now be found at [https://opendev.org/opendev/puppet-bup](https://opendev.org/opendev/puppet-bup)
